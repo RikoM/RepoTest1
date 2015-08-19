@@ -10,6 +10,7 @@ namespace WebApplication1
         {
             //this is only comment for check git push
             //update from github.com test
+            //lagi
             ConfigureAuth(app);
         }
     }
