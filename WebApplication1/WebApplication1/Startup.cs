@@ -8,9 +8,7 @@ namespace WebApplication1
     {
         public void Configuration(IAppBuilder app)
         {
-            //this is only comment for check git push
-            //update from github.com test
-            //lagi
+            //must be shown
             ConfigureAuth(app);
         }
     }
